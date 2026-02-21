@@ -1,4 +1,4 @@
-name: Example GitHub Action
+name: Updated GitHub Action
 
 on:
   push:
@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 21f1002348@ds.study.iitm.ac.in
-        run: echo "Hello, world!"
+        run: echo "Hello, IITM!"
